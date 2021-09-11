@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+fieldset{
+    padding: 5%;
+    margin: 5% 15%;
+    background-color:rgba(15, 219, 175, 0.849);
+    color: whitesmoke;
+    font-size: 18px;
+    line-height: 40px;
+}
+h2{
+    color: rgb(211, 7, 167);
+}
